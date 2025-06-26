@@ -1,2 +1,2 @@
 # SQL
-data council practical work
+data council practical work of sql
